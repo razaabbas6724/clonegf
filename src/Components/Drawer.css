@@ -1,0 +1,9 @@
+.list-item{
+margin-right: 10px;
+}
+.list-item:hover{
+    background-color: #c4c4ce;
+    border-radius: 0 20PX 20PX 0 ;
+    color: black;
+
+}
